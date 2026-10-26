@@ -1,20 +1,20 @@
 {
-  "version": "0.41",
-  "notes": "Halloween is now a holiday pack. Clocks, weather and more can take turns: one each round, spread out, or all in a row. Tick boxes on style tiles. The SD card is retried, and the Box tab says why one wasn't found. SeenGreat boards get updates here too.",
-  "date": "2026-10-25",
+  "version": "0.42",
+  "notes": "New look for the settings page: the box's name is the title (tap it to see your other boxes), and the Now tab shows a time-left bar, Hold turns into Resume, brightness in %, and pictures of what's coming up. On a computer the tabs are along the top.",
+  "date": "2026-10-26",
   "boards": {
     "waveshare": {
-      "file": "JinxBox-v0.41.bin",
-      "size": 2492880,
-      "md5": "118538f5570dbb8d92101de6e786d687"
+      "file": "JinxBox-v0.42.bin",
+      "size": 2506608,
+      "md5": "ee08047ed678ee85b2f161a335e35dbe"
     },
     "seengreat": {
-      "file": "JinxBox-v0.41-seengreat.bin",
-      "size": 2487840,
-      "md5": "d2396e606bf044fddd5329a2befbbf8d"
+      "file": "JinxBox-v0.42-seengreat.bin",
+      "size": 2501568,
+      "md5": "b7b618050ac630cb07fe5af87e28cd4f"
     }
   },
-  "file": "JinxBox-v0.41.bin",
-  "size": 2492880,
-  "md5": "118538f5570dbb8d92101de6e786d687"
+  "file": "JinxBox-v0.42.bin",
+  "size": 2506608,
+  "md5": "ee08047ed678ee85b2f161a335e35dbe"
 }
