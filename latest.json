@@ -1,20 +1,15 @@
 {
-  "version": "0.42",
-  "notes": "New look for the settings page: the box's name is the title (tap it to see your other boxes), and the Now tab shows a time-left bar, Hold turns into Resume, brightness in %, and pictures of what's coming up. On a computer the tabs are along the top.",
+  "version": "0.43",
+  "notes": "Internet updates carry on after a dropped connection, use much less of the chip's inside memory, and new versions show up right away. Includes v0.42: the box's name as the page title with a list of your boxes, and the new Now tab.",
   "date": "2026-10-26",
   "boards": {
     "waveshare": {
-      "file": "JinxBox-v0.42.bin",
-      "size": 2506608,
-      "md5": "ee08047ed678ee85b2f161a335e35dbe"
-    },
-    "seengreat": {
-      "file": "JinxBox-v0.42-seengreat.bin",
-      "size": 2501568,
-      "md5": "b7b618050ac630cb07fe5af87e28cd4f"
+      "file": "JinxBox-v0.43.bin",
+      "size": 2507696,
+      "md5": "62b37ca6d134a4a9a4b98a260d7199d3"
     }
   },
-  "file": "JinxBox-v0.42.bin",
-  "size": 2506608,
-  "md5": "ee08047ed678ee85b2f161a335e35dbe"
+  "file": "JinxBox-v0.43.bin",
+  "size": 2507696,
+  "md5": "62b37ca6d134a4a9a4b98a260d7199d3"
 }
