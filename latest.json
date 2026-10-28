@@ -1,15 +1,15 @@
 {
-  "version": "0.45",
-  "notes": "A new Screens tab: a card for each screen with an on/off switch, and Reorder to change the order. Clock, weather and forecast pages get a big preview, and a button on each style to show it on the box right away. Includes v0.44: a tidier Box tab, Places for travelling, and a welcome for new boxes.",
+  "version": "0.46",
+  "notes": "Faint glows in the settings page's previews (snowflake trails, Christmas bulbs, twinkle lights, rain) no longer show as dark spots. Includes v0.45: a new Screens tab with Reorder, and style pages with a big preview and a button to show a style on the box right away.",
   "date": "2026-10-27",
   "boards": {
     "waveshare": {
-      "file": "JinxBox-v0.45.bin",
-      "size": 2550480,
-      "md5": "0cd1d7c1acedb49914aff48aea0d3dde"
+      "file": "JinxBox-v0.46.bin",
+      "size": 2550704,
+      "md5": "15b6141bca3d7cef6f146a7a13298c27"
     }
   },
-  "file": "JinxBox-v0.45.bin",
-  "size": 2550480,
-  "md5": "0cd1d7c1acedb49914aff48aea0d3dde"
+  "file": "JinxBox-v0.46.bin",
+  "size": 2550704,
+  "md5": "15b6141bca3d7cef6f146a7a13298c27"
 }
