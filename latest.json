@@ -11,5 +11,28 @@
   },
   "file": "JinxBox-v0.46.bin",
   "size": 2550704,
-  "md5": "15b6141bca3d7cef6f146a7a13298c27"
+  "md5": "15b6141bca3d7cef6f146a7a13298c27",
+  "packs": {
+    "christmas": {
+      "file": "packs/christmas-v1.pack",
+      "size": 242663,
+      "md5": "383f568ce1c92088146eb1317222b9d5",
+      "version": 1,
+      "content": "9f2a8462508049a4bc6107b31ae6e6b8"
+    },
+    "halloween": {
+      "file": "packs/halloween-v1.pack",
+      "size": 197493,
+      "md5": "8c9a15638717d8d3365f58286a328021",
+      "version": 1,
+      "content": "b8c113424a6f86e9ac5629e8bf6cea24"
+    },
+    "thanksgiving": {
+      "file": "packs/thanksgiving-v1.pack",
+      "size": 172510,
+      "md5": "37d793a7956e0670ea41232cc4d479c2",
+      "version": 1,
+      "content": "5be7f66cbc4d9ec51e7eba88476ddb61"
+    }
+  }
 }
