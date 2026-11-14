@@ -14,25 +14,39 @@
   "md5": "15b6141bca3d7cef6f146a7a13298c27",
   "packs": {
     "christmas": {
-      "file": "packs/christmas-v1.pack",
-      "size": 242663,
-      "md5": "383f568ce1c92088146eb1317222b9d5",
-      "version": 1,
-      "content": "9f2a8462508049a4bc6107b31ae6e6b8"
+      "file": "packs/christmas-v2.pack",
+      "size": 243674,
+      "md5": "9f6bfeb23aa587eb2c84c25c12d7b5ad",
+      "version": 2,
+      "content": "6889e98ecdc47592877d53bb7726f504"
     },
     "halloween": {
-      "file": "packs/halloween-v1.pack",
-      "size": 197493,
-      "md5": "8c9a15638717d8d3365f58286a328021",
-      "version": 1,
-      "content": "b8c113424a6f86e9ac5629e8bf6cea24"
+      "file": "packs/halloween-v2.pack",
+      "size": 198143,
+      "md5": "d22f03b34d65b266f1476f69b554c741",
+      "version": 2,
+      "content": "8bee0fe3e1701dd93726de76f5091aac"
     },
     "thanksgiving": {
-      "file": "packs/thanksgiving-v1.pack",
-      "size": 172510,
-      "md5": "37d793a7956e0670ea41232cc4d479c2",
+      "file": "packs/thanksgiving-v2.pack",
+      "size": 335749,
+      "md5": "aa51db7fc70c715b6cad247f0b9a3e69",
+      "version": 2,
+      "content": "98795592dc2eb9b89412c8a4188b04c8"
+    },
+    "newyear": {
+      "file": "packs/newyear-v1.pack",
+      "size": 87087,
+      "md5": "98e73a815fabb76b6a7fd4f78725fbe6",
       "version": 1,
-      "content": "5be7f66cbc4d9ec51e7eba88476ddb61"
+      "content": "263dda7706d74ae0802453879cec098f"
+    },
+    "valentine": {
+      "file": "packs/valentine-v1.pack",
+      "size": 143743,
+      "md5": "12d447f62e9bc80a3c5d604f90b45e21",
+      "version": 1,
+      "content": "5f7bdd862ff90aceea9b19b2159a16d5"
     }
   }
 }
