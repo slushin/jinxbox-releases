@@ -48,5 +48,13 @@
       "version": 1,
       "content": "5f7bdd862ff90aceea9b19b2159a16d5"
     }
-  }
+  },
+  "starter": [
+    {
+      "id": "american-flag",
+      "file": "starter/american-flag.gif",
+      "size": 144490,
+      "md5": "58dbfc6942522f30000049f64c0829b8"
+    }
+  ]
 }
